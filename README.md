@@ -1,6 +1,6 @@
 # Hackshift-hackathon
 # SyncTies
-**AI-Powered Alumni Networking for Meaningful Connections**[cite: 1]
+**Alumni Networking for Making Meaningful Connections**[cite: 1]
 
 ### 🚨 The Problem
 *   **The Cold-Start Black Hole:** Students rely on guessing games and cold emails on professional networks to find guidance, resulting in near-zero response rates[cite: 4]. 
@@ -34,4 +34,6 @@ $$Score = 0.40D + 0.30H + 0.20A + 0.10R$$
 ### Setup
 https://syncties.vercel.app/
 
+### Demo Of Prototype
+https://youtu.be/WJTRHzZJEqQ
 
