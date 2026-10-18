@@ -1,0 +1,11 @@
+var R=require("../../../chunks/[turbopack]_runtime.js")("server/app/api/offers/route.js")
+R.c("server/chunks/node_modules_next_16qz83a-gjixe._.js")
+R.c("server/chunks/node_modules_zod_v4_classic_1yt2xjril3y3j._.js")
+R.c("server/chunks/node_modules_zod_v4_core_0yfsh0dphquad._.js")
+R.c("server/chunks/node_modules_zod_v4_locales_0on3-qho2_wkm._.js")
+R.c("server/chunks/node_modules_@supabase_auth-js_dist_module_00x2u05974i92._.js")
+R.c("server/chunks/node_modules_0lqrqw-e7c8d3._.js")
+R.c("server/chunks/[root-of-the-server]__140trihh9piin._.js")
+R.c("server/chunks/_next-internal_server_app_api_offers_route_actions_0loccs83cv7lo.js")
+R.m("[project]/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/app/api/offers/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)")
+module.exports=R.m("[project]/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/app/api/offers/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)").exports

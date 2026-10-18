@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/alumni/layout,_N_T_/alumni/requests/layout,_N_T_/alumni/requests/page,_N_T_/alumni/requests"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/alumni/requests/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 64,
+    "slots": {
+      "children": {
+        "hints": 96,
+        "slots": {
+          "children": {
+            "hints": 96,
+            "slots": {
+              "children": {
+                "hints": 160,
+                "slots": null
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/a998a3460f6f2a65de9d5eb6805e46ec5f4b040397146047f584910e62806b3b/$/alumni/requests",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/alumni/requests/page"
+    },
+    "isFallback": false
+  }
+}

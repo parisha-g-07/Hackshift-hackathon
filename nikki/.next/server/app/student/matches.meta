@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/student/layout,_N_T_/student/matches/layout,_N_T_/student/matches/page,_N_T_/student/matches"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/student/matches/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 64,
+    "slots": {
+      "children": {
+        "hints": 96,
+        "slots": {
+          "children": {
+            "hints": 96,
+            "slots": {
+              "children": {
+                "hints": 160,
+                "slots": null
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/d9bc93fec094310c68f57c9f056a3f359adbc8a020e37095d6547899c56bc6cc/$/student/matches",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/student/matches/page"
+    },
+    "isFallback": false
+  }
+}

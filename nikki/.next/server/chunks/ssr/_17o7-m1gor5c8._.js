@@ -1,0 +1,3 @@
+(()=>{"use strict";module.exports=[67353,a=>{a.s(["f",0,function(){let a="https://dvlmiwonanctdbvjgjto.supabase.co";return!(a.includes("placeholder-project")||a.includes("your-project"))}])},62591,a=>{var b=a.i(64831);let c={name:"mail",size:24,node:[["path",{d:"m22 7-8.991 5.727a2 2 0 0 1-2.009 0L2 7",key:"132q7q"}],["rect",{x:"2",y:"4",width:"20",height:"16",rx:"2",key:"izxlao"}]]};c.node;let d=(0,b.f)(c);a.s(["f",0,d],62591)}]})();
+
+//# sourceMappingURL=_17o7-m1gor5c8._.js.map

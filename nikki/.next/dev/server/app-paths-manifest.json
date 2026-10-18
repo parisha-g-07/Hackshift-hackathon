@@ -1,0 +1,6 @@
+{
+  "/api/health/route": "app/api/health/route.js",
+  "/api/profile/route": "app/api/profile/route.js",
+  "/auth/sign-up/page": "app/auth/sign-up/page.js",
+  "/profile/page": "app/profile/page.js"
+}
